@@ -12,7 +12,7 @@ export const Navigation = () => {
       <div>
         <nav>
           <img src={logo} alt="React Logo" />
-          <ul>
+          <ul> 
             <li>
               <NavLink to="/" activeClassName="nav-active" exact>Home</NavLink>
             </li>
